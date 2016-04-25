@@ -26,6 +26,8 @@
 *.pyc
 .svn/
 *.log
+Makefile
+config.make
 
 ########################
 # IDE files which should
@@ -61,6 +63,12 @@ local.properties
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
+
+# Qt Creator
+*.qbs
+*.qbs.user
+*.pro.user
+*.pri
 
 ##################
 # operating system
