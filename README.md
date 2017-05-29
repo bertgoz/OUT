@@ -18,4 +18,4 @@ Project developed using OpenFrameworks and the addon ofxCV (https://github.com/k
 C++
 
 ### License
-BY-SA 4.0
+GPL 2.0
